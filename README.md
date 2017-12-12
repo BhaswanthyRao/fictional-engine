@@ -1,1 +1,1 @@
-technical coder
+open source software
